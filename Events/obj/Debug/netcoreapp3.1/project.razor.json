@@ -14402,11 +14402,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/smankarious/Desktop/StMark/ChurchServices/Events/Views/Hello/Privacy.cshtml",
-      "TargetPath": "Views\\Hello\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "/Users/smankarious/Desktop/StMark/ChurchServices/Events/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -14417,13 +14412,18 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/smankarious/Desktop/StMark/ChurchServices/Events/Views/Hello/Index.cshtml",
-      "TargetPath": "Views\\Hello\\Index.cshtml",
+      "FilePath": "/Users/smankarious/Desktop/StMark/ChurchServices/Events/Views/Event/Index.cshtml",
+      "TargetPath": "Views\\Event\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "/Users/smankarious/Desktop/StMark/ChurchServices/Events/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/smankarious/Desktop/StMark/ChurchServices/Events/Views/Event/Privacy.cshtml",
+      "TargetPath": "Views\\Event\\Privacy.cshtml",
       "FileKind": "mvc"
     }
   ],

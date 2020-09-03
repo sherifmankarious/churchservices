@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0IkZGoOP8GEqyQFtlCPGiL1NDFMXr1+r7EGEo49PX/1ZFcV0npkIbVzBMFZRpQ0r1wiFUxAXmAvfNgDfQEa53A==",
+  "success": true,
+  "projectFilePath": "/Users/smankarious/Desktop/StMark/ChurchServices/Test/Test.csproj",
+  "expectedPackageFiles": [
+    "/Users/smankarious/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/smankarious/.nuget/packages/orchardcore.abstractions/1.0.0-rc2-13450/orchardcore.abstractions.1.0.0-rc2-13450.nupkg.sha512",
+    "/Users/smankarious/.nuget/packages/orchardcore.module.targets/1.0.0-rc2-13450/orchardcore.module.targets.1.0.0-rc2-13450.nupkg.sha512"
+  ],
+  "logs": []
+}

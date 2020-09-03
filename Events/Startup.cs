@@ -8,9 +8,16 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using OrchardCore.Modules;
+
+[assembly: OrchardCore.Modules.Manifest.Feature(
+    Id = "Events",
+    Name = "Events"
+)]
 
 namespace Events
 {
+  [Feature("Events")]
   public class Startup
   {
     public Startup(IConfiguration configuration)
