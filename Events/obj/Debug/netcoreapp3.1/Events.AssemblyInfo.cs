@@ -15,10 +15,10 @@ using System.Reflection;
     "hServices/Events/appsettings.Development.json")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/Events/appsettings.json|/Users/smankarious/Desktop/StMark/ChurchServices/Ev" +
     "ents/appsettings.json")]
-[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/Events/Views/Hello/Index.cshtml|/Users/smankarious/Desktop/StMark/ChurchSer" +
-    "vices/Events/Views/Hello/Index.cshtml")]
-[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/Events/Views/Hello/Privacy.cshtml|/Users/smankarious/Desktop/StMark/ChurchS" +
-    "ervices/Events/Views/Hello/Privacy.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/Events/Views/Event/Index.cshtml|/Users/smankarious/Desktop/StMark/ChurchSer" +
+    "vices/Events/Views/Event/Index.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/Events/Views/Event/Privacy.cshtml|/Users/smankarious/Desktop/StMark/ChurchS" +
+    "ervices/Events/Views/Event/Privacy.cshtml")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/Events/Views/Shared/Error.cshtml|/Users/smankarious/Desktop/StMark/ChurchSe" +
     "rvices/Events/Views/Shared/Error.cshtml")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/Events/Views/Shared/_Layout.cshtml|/Users/smankarious/Desktop/StMark/Church" +
@@ -33,8 +33,6 @@ using System.Reflection;
     "s/Events/wwwroot/css/site.css")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/Events/wwwroot/favicon.ico|/Users/smankarious/Desktop/StMark/ChurchServices" +
     "/Events/wwwroot/favicon.ico")]
-[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/Events/wwwroot/Images/HomePicture.jpg|/Users/smankarious/Desktop/StMark/Chu" +
-    "rchServices/Events/wwwroot/Images/HomePicture.jpg")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/Events/wwwroot/js/site.js|/Users/smankarious/Desktop/StMark/ChurchServices/" +
     "Events/wwwroot/js/site.js")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/Events/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css|/Users/smankarious" +
